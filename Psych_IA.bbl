@@ -1,0 +1,561 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{carmichael1932}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dcf99ac68584fae2eb8226316897432d}{%
+           family={Carmichael},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2156f3f58781db3c46c1e781ef715fb}{%
+           family={Hogen},
+           familyi={H\bibinitperiod},
+           given={H\bibnamedelima P},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b24b247fcc818a2d1880bd5bbd2a7fe5}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={A\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d61b1359ede15d49c85b801b036e478}
+      \strng{fullhash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \strng{bibnamehash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \strng{authorbibnamehash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \strng{authornamehash}{9d61b1359ede15d49c85b801b036e478}
+      \strng{authorfullhash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology}
+      \field{title}{An experimental study of the effect of language on the reproduction of visually perceived form.}
+      \field{volume}{15(1)}
+      \field{year}{1932}
+      \field{pages}{585\bibrangedash 589}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1037/h0072671
+      \endverb
+    \endentry
+    \entry{8}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f6805b1c1ec98eb747caed8999e98ffd}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6dbc64af3439cdf96930032dbe8e9a0}{%
+           family={Weisberg},
+           familyi={W\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e2dc753725fca600409233605c98857d}
+      \strng{fullhash}{e2dc753725fca600409233605c98857d}
+      \strng{bibnamehash}{e2dc753725fca600409233605c98857d}
+      \strng{authorbibnamehash}{e2dc753725fca600409233605c98857d}
+      \strng{authornamehash}{e2dc753725fca600409233605c98857d}
+      \strng{authorfullhash}{e2dc753725fca600409233605c98857d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{car: Companion to Applied Regression}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://cran.r-project.org/package=car
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org/package=car
+      \endverb
+    \endentry
+    \entry{loftus1974}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=626e14d4b95a69fe99593e4e64ffccdc}{%
+           family={Loftus},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6098dcfe5f34eba8a21530ca22e5e2a}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{fullhash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{bibnamehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{authorbibnamehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{authornamehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{authorfullhash}{570e797b2bfd19bf265770e767861ca5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
+      \field{title}{Reconstruction of Automobile Destruction: An Example of the Interaction Between Language and Memory}
+      \field{volume}{13(5)}
+      \field{year}{1974}
+      \field{pages}{585\bibrangedash 589}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/S0022-5371(74)80011-3
+      \endverb
+    \endentry
+    \entry{6}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b4d906c6d35719f380d240985a47db9}{%
+           family={project},
+           familyi={p\bibinitperiod},
+           given={The\bibnamedelima Jamovi},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{fullhash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{bibnamehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{authorbibnamehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{authornamehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{authorfullhash}{5b4d906c6d35719f380d240985a47db9}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{jamovi}
+      \field{version}{2.3}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.jamovi.org
+      \endverb
+      \verb{url}
+      \verb https://www.jamovi.org
+      \endverb
+    \endentry
+    \entry{Stark2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3235e7ab53a68adeb0635ad25a699334}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=560b0a3bc7ffe27547c7d371b182822f}{%
+           family={Okado},
+           familyi={O\bibinitperiod},
+           given={Yoko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95dc272f15498912d94eee14804c6474}{%
+           family={Loftus},
+           familyi={L\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b92a738aa376d9a005bd1565d94d8075}
+      \strng{fullhash}{049136df886d11b06e61e6f8f01ee448}
+      \strng{bibnamehash}{049136df886d11b06e61e6f8f01ee448}
+      \strng{authorbibnamehash}{049136df886d11b06e61e6f8f01ee448}
+      \strng{authornamehash}{b92a738aa376d9a005bd1565d94d8075}
+      \strng{authorfullhash}{049136df886d11b06e61e6f8f01ee448}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning and memory (Cold Spring Harbor, N.Y.)}
+      \field{month}{10}
+      \field{title}{Imaging the reconstruction of true and false memories using sensory reactivation and the misinformation paradigms}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{485\bibrangedash 8}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1101/lm.1845710
+      \endverb
+    \endentry
+    \entry{7}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bc9f9fface5de5e971d4ab4a4e5823f}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={R\bibnamedelima Core},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{fullhash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{bibnamehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{authorbibnamehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{authornamehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{authorfullhash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and environment for statistical computing}
+      \field{version}{4.1}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://cran.r-project.org
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org
+      \endverb
+    \endentry
+    \entry{Kahneman1974}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{bibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorbibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authornamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{4157}
+      \field{title}{Judgment under Uncertainty: Heuristics and Biases}
+      \field{volume}{185}
+      \field{year}{1974}
+      \field{pages}{1124\bibrangedash 1131}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1126/science.185.4157.1124
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{carmichael1932}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dcf99ac68584fae2eb8226316897432d}{%
+           family={Carmichael},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2156f3f58781db3c46c1e781ef715fb}{%
+           family={Hogen},
+           familyi={H\bibinitperiod},
+           given={H\bibnamedelima P},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b24b247fcc818a2d1880bd5bbd2a7fe5}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={A\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d61b1359ede15d49c85b801b036e478}
+      \strng{fullhash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \strng{bibnamehash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \strng{authorbibnamehash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \strng{authornamehash}{9d61b1359ede15d49c85b801b036e478}
+      \strng{authorfullhash}{f5268b0a0966e6e2d6266e320fe2cddd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology}
+      \field{title}{An experimental study of the effect of language on the reproduction of visually perceived form.}
+      \field{volume}{15(1)}
+      \field{year}{1932}
+      \field{pages}{585\bibrangedash 589}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1037/h0072671
+      \endverb
+    \endentry
+    \entry{8}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f6805b1c1ec98eb747caed8999e98ffd}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6dbc64af3439cdf96930032dbe8e9a0}{%
+           family={Weisberg},
+           familyi={W\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e2dc753725fca600409233605c98857d}
+      \strng{fullhash}{e2dc753725fca600409233605c98857d}
+      \strng{bibnamehash}{e2dc753725fca600409233605c98857d}
+      \strng{authorbibnamehash}{e2dc753725fca600409233605c98857d}
+      \strng{authornamehash}{e2dc753725fca600409233605c98857d}
+      \strng{authorfullhash}{e2dc753725fca600409233605c98857d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{car: Companion to Applied Regression}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://cran.r-project.org/package=car
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org/package=car
+      \endverb
+    \endentry
+    \entry{loftus1974}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=626e14d4b95a69fe99593e4e64ffccdc}{%
+           family={Loftus},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6098dcfe5f34eba8a21530ca22e5e2a}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{fullhash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{bibnamehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{authorbibnamehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{authornamehash}{570e797b2bfd19bf265770e767861ca5}
+      \strng{authorfullhash}{570e797b2bfd19bf265770e767861ca5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
+      \field{title}{Reconstruction of Automobile Destruction: An Example of the Interaction Between Language and Memory}
+      \field{volume}{13(5)}
+      \field{year}{1974}
+      \field{pages}{585\bibrangedash 589}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/S0022-5371(74)80011-3
+      \endverb
+    \endentry
+    \entry{6}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b4d906c6d35719f380d240985a47db9}{%
+           family={project},
+           familyi={p\bibinitperiod},
+           given={The\bibnamedelima Jamovi},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{fullhash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{bibnamehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{authorbibnamehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{authornamehash}{5b4d906c6d35719f380d240985a47db9}
+      \strng{authorfullhash}{5b4d906c6d35719f380d240985a47db9}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{jamovi}
+      \field{version}{2.3}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.jamovi.org
+      \endverb
+      \verb{url}
+      \verb https://www.jamovi.org
+      \endverb
+    \endentry
+    \entry{Stark2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3235e7ab53a68adeb0635ad25a699334}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=560b0a3bc7ffe27547c7d371b182822f}{%
+           family={Okado},
+           familyi={O\bibinitperiod},
+           given={Yoko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95dc272f15498912d94eee14804c6474}{%
+           family={Loftus},
+           familyi={L\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b92a738aa376d9a005bd1565d94d8075}
+      \strng{fullhash}{049136df886d11b06e61e6f8f01ee448}
+      \strng{bibnamehash}{049136df886d11b06e61e6f8f01ee448}
+      \strng{authorbibnamehash}{049136df886d11b06e61e6f8f01ee448}
+      \strng{authornamehash}{b92a738aa376d9a005bd1565d94d8075}
+      \strng{authorfullhash}{049136df886d11b06e61e6f8f01ee448}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning and memory (Cold Spring Harbor, N.Y.)}
+      \field{month}{10}
+      \field{title}{Imaging the reconstruction of true and false memories using sensory reactivation and the misinformation paradigms}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{485\bibrangedash 8}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1101/lm.1845710
+      \endverb
+    \endentry
+    \entry{7}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bc9f9fface5de5e971d4ab4a4e5823f}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={R\bibnamedelima Core},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{fullhash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{bibnamehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{authorbibnamehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{authornamehash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \strng{authorfullhash}{3bc9f9fface5de5e971d4ab4a4e5823f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and environment for statistical computing}
+      \field{version}{4.1}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://cran.r-project.org
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org
+      \endverb
+    \endentry
+    \entry{Kahneman1974}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=031d0d5f9391d970f6f089af958f701d}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Amos},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{fullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{bibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorbibnamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authornamehash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \strng{authorfullhash}{e03b8c64a28ec0d8081c6f4ded219ba3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{4157}
+      \field{title}{Judgment under Uncertainty: Heuristics and Biases}
+      \field{volume}{185}
+      \field{year}{1974}
+      \field{pages}{1124\bibrangedash 1131}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1126/science.185.4157.1124
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is '.\Psych_IA.blg'
+[110] biber-MSWIN32:340> INFO - === 
+[143] Biber.pm:418> INFO - Reading '.\Psych_IA.bcf'
+[274] Biber.pm:978> INFO - Found 7 citekeys in bib section 0
+[296] Biber.pm:4401> INFO - Processing section 0
+[313] Biber.pm:4592> INFO - Looking for bibtex file 'mybibliography.bib' for section 0
+[363] bibtex.pm:1713> INFO - LaTeX decoding ...
+[380] bibtex.pm:1518> INFO - Found BibTeX data source 'mybibliography.bib'
+[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[453] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[453] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[477] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[478] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[478] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[478] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[527] bbl.pm:654> INFO - Writing '.\Psych_IA.bbl' with encoding 'UTF-8'
+[536] bbl.pm:757> INFO - Output to .\Psych_IA.bbl
